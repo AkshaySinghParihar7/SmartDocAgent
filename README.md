@@ -105,7 +105,7 @@ Before running this project, make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/SmartDocAgent.git
+git clone https://github.com/AkshaySinghParihar7/SmartDocAgent.git
 cd SmartDocAgent
 ```
 
